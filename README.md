@@ -12,5 +12,14 @@ Remember, it's self-paced so feel free to take a break! ☕️
 
 ---
 
+## Create and publish a branch
+
+From your local repository, run:
+
+```bash
+git switch -c accelerate-with-copilot
+git push --set-upstream origin accelerate-with-copilot
+```
+
 &copy; 2025 GitHub &bull; [Code of Conduct](https://www.contributor-covenant.org/version/2/1/code_of_conduct/code_of_conduct.md) &bull; [MIT License](https://gh.io/mit)
 
